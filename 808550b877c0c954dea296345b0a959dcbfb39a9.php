@@ -1,0 +1,3 @@
+<link rel="stylesheet" href="<?php echo e(Module::asset('LandingPage:Resources/assets/assets/previewlinksBlog.css')); ?>">
+<link rel="stylesheet" href="<?php echo e(Module::asset('LandingPage:Resources/assets/assets/swiper/dist/css/swiper.min.css')); ?>">
+<link rel="stylesheet" href="<?php echo e(Module::asset('LandingPage:Resources/assets/custom/custom.css')); ?>"><?php /**PATH D:\QuantmHill\erp_system\Modules/LandingPage\Resources/views/layouts/infoimagescss.blade.php ENDPATH**/ ?>

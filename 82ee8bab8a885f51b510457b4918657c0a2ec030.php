@@ -1,0 +1,3 @@
+<script src="<?php echo e(Module::asset('LandingPage:Resources/assets/assets/swiper/dist/js/swiper.min.js')); ?>"></script>
+<script src="<?php echo e(Module::asset('LandingPage:Resources/assets/assets/previewlinksBlog.js')); ?>"></script>
+<script src="<?php echo e(Module::asset('LandingPage:Resources/assets/custom/custom.js')); ?>"></script><?php /**PATH D:\QuantmHill\erp_system\Modules/LandingPage\Resources/views/layouts/infoimagesjs.blade.php ENDPATH**/ ?>
